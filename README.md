@@ -4,8 +4,8 @@ The parts to print are stored at the stl folder. In addition the svg files in th
 
 ![project overview](img/DSC01052.JPG "project overview with honeycomb")
 ![project overview](img/DSC01050.JPG "motor mount")
-![project overview](img/DSC01056.JPG)
-![project overview](img/DSC01057.JPG)
+![project overview](img/DSC01086.JPG)
+![project overview](img/DSC01087.JPG)
 
 
 You need:
